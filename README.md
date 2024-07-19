@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep0143&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep0143" /> </p>
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently working on **Frontend Development**
 
 - 📫 How to reach me **kuldeepchouhan923@gmail.com**
 
